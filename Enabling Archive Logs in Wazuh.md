@@ -1,7 +1,6 @@
 # Configuring Archive Logs in Wazuh
 
 ## Overview
-*May 21, 2025*
 
 Wazuh provides an Archive Index pattern functionality that offers organizations a robust method for managing extensive log data collections. This archiving system enables enterprises to store, search, and analyze historical security events while maintaining operational efficiency.
 
